@@ -18,6 +18,9 @@ Installing, updating, and configuring software and hardware components.
 ### Network Management: 
 Managing network resources, including servers, printers, and other networked devices.
 
+### File and Storage Services: 
+This role in Windows Server includes features like Storage Spaces, Data Deduplication, and iSCSI Target Server, which help in managing and optimizing storage.
+
 ### Backup and Recovery: 
 Implementing backup solutions and ensuring data recovery in case of system failures.
 
