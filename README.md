@@ -1,10 +1,12 @@
-## What is Windows Administration?
+# What is Windows Administration?
 Windows administration is managing and maintaining Windows operating systems, wherether its in your homelab or in a business or enterprise environment.
 
-## What are basic responsibilities of a Windows administrator?
+# What are basic responsibilities of a Windows administrator?
 
-### User and Account Management: 
+## User and Account Management: 
 Creating, modifying, and deleting user accounts, and managing permissions and access controls.
+### PowerShell Script for generating Bulk Users from NameList
+
 
 ### System Monitoring and Maintenance: 
 Monitoring system performance, scheduling tasks, and ensuring that hardware and software are functioning correctly.
