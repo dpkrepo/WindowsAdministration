@@ -9,25 +9,25 @@ Creating, modifying, and deleting user accounts, and managing permissions and ac
 [Create 50 Users at once](https://github.com/dpkrepo/WindowsAdministration/blob/main/CreateUsersWithNameList.ps1)
 
 
-### System Monitoring and Maintenance: 
+## System Monitoring and Maintenance: 
 Monitoring system performance, scheduling tasks, and ensuring that hardware and software are functioning correctly.
 
-### Security Management: 
+## Security Management: 
 Implementing security policies, installing and maintaining antivirus software, and managing firewalls and other security measures.
 
-### Software and Hardware Installation: 
+## Software and Hardware Installation: 
 Installing, updating, and configuring software and hardware components.
 
-### Network Management: 
+## Network Management: 
 Managing network resources, including servers, printers, and other networked devices.
 
-### File and Storage Services: 
+## File and Storage Services: 
 This role in Windows Server includes features like Storage Spaces, Data Deduplication, and iSCSI Target Server, which help in managing and optimizing storage.
 
-### Backup and Recovery: 
+## Backup and Recovery: 
 Implementing backup solutions and ensuring data recovery in case of system failures.
 
-### Troubleshooting and Support: 
+## Troubleshooting and Support: 
 Diagnosing and resolving system issues, providing technical support to users, and maintaining system documentation.
 
 ## Windows Admin Center 
