@@ -1,9 +1,9 @@
-﻿# ---This powershell Script generate the users in your AD enviroment. Names are listed on UserName.txt file You can have your own name list or you can edit the UserName.txt file. ---#
+﻿# ---This powershell Script generate the users in your AD enviroment. Names are listed on UserName.txt file. You can have your own name list or you can edit the UserName.txt file. ---#
 
 $UserPassword   = "Pa55w.rd"
 $UserNameList = Get-Content .\UserName.txt     # Make sure put the UserName.txt file in same path with this Script
 
-# change password to secure string #
+# --- change password to secure string ---#
 
 $password = ConvertTo-SecureString $UserPassword -AsPlainText -Force
 New-ADOrganizationalUnit -Name _USERS -ProtectedFromAccidentalDeletion $false
