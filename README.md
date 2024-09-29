@@ -5,7 +5,8 @@ Windows administration is managing and maintaining Windows operating systems, wh
 
 ## User and Account Management: 
 Creating, modifying, and deleting user accounts, and managing permissions and access controls.
-### PowerShell Script for generating Bulk Users from NameList
+### PowerShell Script for generating Bulk Users from Custom NameList
+[Create 50 Users at once](https://github.com/dpkrepo/WindowsAdministration/blob/main/CreateUsersWithNameList.ps1)
 
 
 ### System Monitoring and Maintenance: 
