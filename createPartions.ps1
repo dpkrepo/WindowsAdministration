@@ -1,9 +1,10 @@
-﻿# Define the disk number and partition size
-$diskNumber = 1
-$partitionSizeGB = 30
+# This powershell Script generate a GPT Style, Each of PartitionE:(E) to PartitionS:(S) are 30GB in size. You can modify according to your need.
+# Define the disk number and partition size
+$diskNumber = 1                #change according to your disk Number
+$partitionSizeGB = 30          # Your requirement      
 
 # Define the drive letters
-$driveLetters = 'E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S'
+$driveLetters = 'E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S'      
 
 # Get the disk object
 $disk = Get-Disk -Number $diskNumber
