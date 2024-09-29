@@ -1,7 +1,7 @@
-# This powershell Script generate a GPT Style, Each of PartitionE:(E) to PartitionS:(S) are 30GB in size. You can modify according to your need.
+# This powershell Script generate Partitions for your external HardDisk which will be in GPT Style, Each of PartitionE:(E) to PartitionS:(S) are 30GB in size. You can modify according to your need.
 # Define the disk number and partition size
 $diskNumber = 1                #change according to your disk Number
-$partitionSizeGB = 30          # Your requirement      
+$partitionSizeGB = 30          # According to your requirement      
 
 # Define the drive letters
 $driveLetters = 'E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S'      
