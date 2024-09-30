@@ -11,6 +11,13 @@ Windows administration is managing and maintaining Windows operating systems, wh
 
 ## User and Account Management: 
 Creating, modifying, and deleting user accounts, and managing permissions and access controls.
+
+### How to Rename your PC using Powershell ?
+
+Open Poweshell
+
+Type ` Rename-Computer -NewName <YourComputerName> -restart -force `
+
 ### PowerShell Script for generating Bulk Users from Custom NameList
 [Show me PowerShell Script: How to create 50 Users at once](https://github.com/dpkrepo/WindowsAdministration/blob/main/CreateUsersWithNameList.ps1)
 
