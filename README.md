@@ -24,6 +24,9 @@ Managing network resources, including servers, printers, and other networked dev
 ## File and Storage Services: 
 This role in Windows Server includes features like Storage Spaces, Data Deduplication, and iSCSI Target Server, which help in managing and optimizing storage.
 
+### Create a HardDisk Partitions from PowerShell Script
+[Show Me PoweShell Script](https://github.com/dpkrepo/WindowsAdministration/blob/main/createPartions.ps1)
+
 ## Backup and Recovery: 
 Implementing backup solutions and ensuring data recovery in case of system failures.
 
