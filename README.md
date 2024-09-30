@@ -2,6 +2,10 @@
 
 
 
+# --- To Use this powershell script edit '<>' section.
+
+
+
 
 
 # What is Windows Administration?
@@ -17,6 +21,12 @@ Creating, modifying, and deleting user accounts, and managing permissions and ac
 Open Poweshell
 
 Type ` Rename-Computer -NewName <YourComputerName> -restart -force `
+
+### How to join Your Computer to Domain?
+
+Open Poweshell
+
+Type ` Add-Computer -DomainName <example.com> -Credential <example\Administrator> -restart -force `
 
 ### PowerShell Script for generating Bulk Users from Custom NameList
 [Show me PowerShell Script: How to create 50 Users at once](https://github.com/dpkrepo/WindowsAdministration/blob/main/CreateUsersWithNameList.ps1)
