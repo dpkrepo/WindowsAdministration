@@ -6,7 +6,7 @@ Windows administration is managing and maintaining Windows operating systems, wh
 ## User and Account Management: 
 Creating, modifying, and deleting user accounts, and managing permissions and access controls.
 ### PowerShell Script for generating Bulk Users from Custom NameList
-[Show me PowerShell Script of Creating 50 Users at once](https://github.com/dpkrepo/WindowsAdministration/blob/main/CreateUsersWithNameList.ps1)
+[Show me PowerShell Script: How to create 50 Users at once](https://github.com/dpkrepo/WindowsAdministration/blob/main/CreateUsersWithNameList.ps1)
 
 
 ## System Monitoring and Maintenance: 
@@ -25,7 +25,7 @@ Managing network resources, including servers, printers, and other networked dev
 This role in Windows Server includes features like Storage Spaces, Data Deduplication, and iSCSI Target Server, which help in managing and optimizing storage.
 
 ### Create a HardDisk Partitions from PowerShell Script
-[Show Me PoweShell Script of creating 15 30GB Harddisk Patition at once](https://github.com/dpkrepo/WindowsAdministration/blob/main/createPartions.ps1)
+[Show Me PoweShell Script: How to create 15 30GB Harddisk Patition at once](https://github.com/dpkrepo/WindowsAdministration/blob/main/createPartions.ps1)
 
 ## Backup and Recovery: 
 Implementing backup solutions and ensuring data recovery in case of system failures.
