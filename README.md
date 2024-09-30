@@ -1,3 +1,9 @@
+# This Github Readme is on ongoing development please have a patience
+
+
+
+
+
 # What is Windows Administration?
 Windows administration is managing and maintaining Windows operating systems, wherether its in your homelab or in a business or enterprise environment.
 
