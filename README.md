@@ -6,4 +6,4 @@
 
 ## Projects
 
-[Create 50 users using PowerShell](./c
+[Create 50 users using PowerShell](./CreateUserWithNameList.ps1)
