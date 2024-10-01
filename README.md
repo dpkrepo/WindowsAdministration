@@ -6,4 +6,4 @@
 
 ## Projects
 
-[Create 50 users using PowerShell](./CreateUserWithNameList.ps1)
+[Create 50 users using PowerShell](https://github.com/dpkrepo/WindowsAdministration/blob/main/CreateUsersWithNameList.ps1)
