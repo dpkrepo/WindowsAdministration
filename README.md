@@ -7,3 +7,5 @@
 ## Projects
 
 [Bulk Creation of users using PowerShell](https://github.com/dpkrepo/WindowsAdministration/blob/main/CreateUsersWithNameList.ps1)
+
+[Bulk Creation of HardDisk Partion Format, Named, Assign Drive Letter using PowerShell]()
