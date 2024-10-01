@@ -2,7 +2,7 @@
 
 
 
-# --- To Use this powershell script edit '<>' section.
+# --- To Use this powershell Commands edit '<>' section.
 
 
 
