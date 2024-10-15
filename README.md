@@ -3,7 +3,7 @@
 
 [Study guide for Exam AZ-800: Microsoft Azure Administrator](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-800)
 
-# ******* Installation, Storage and Compute *******
+# ******* Windows Server Installation, Storage and Compute *******
 
 ## Install upgrade and migrate servers and workloads
 
