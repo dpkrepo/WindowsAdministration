@@ -5,72 +5,72 @@
 
 # ******* Windows Server Installation, Storage and Compute *******
 
-## Install upgrade and migrate servers and workloads
+## 1. Install upgrade and migrate servers and workloads
 
-## Configure Local Storage
+## 2. Configure Local Storage
 
-## Implement enterprise Storage solutions
+## 3. Implement enterprise Storage solutions
 
-## Implement Storage Spaces and Data Deduplication
+## 4. Implement Storage Spaces and Data Deduplication
 
-## Install and configure Hyper-V and virtual machines
+## 5. Install and configure Hyper-V and virtual machines
 
-## Deploy and manage windows server and hyper-v containers
+## 6. Deploy and manage windows server and hyper-v containers
 
-## High Availability and Disaster recovery
+## 7. High Availability and Disaster recovery
 
-## Implement and manage failover clustering
+## 8. Implement and manage failover clustering
 
-## Implement failover clustering for Hyper-V virtual machines
+## 9. Implement failover clustering for Hyper-V virtual machines
 
-## Create and manage deployement images
+## 10. Create and manage deployement images
 
-## Maintain and moniotor windows server installations
+## 11. Maintain and moniotor windows server installations
 
 # ******** Active Directory ******* 
 
-## Deploy Active Directory Services
+## 1. Deploy Active Directory Services
 
-## Manage Directory Objects
+## 2. Manage Directory Objects
 
-## Advanced Active Directory Domain Services Infrastructure Management
+## 3. Advanced Active Directory Domain Services Infrastructure Management
 
-## Implement and Administer AD DS Sites and replication
+## 4. Implement and Administer AD DS Sites and replication
 
-## Implement Group Policy
+## 5. Implement Group Policy
 
-## Manage user settings with Group Policy
+## 6. Manage user settings with Group Policy
 
-## Secure Active Directory Domain Services
+## 7. Secure Active Directory Domain Services
 
-## Deploy and manage AD CS
+## 8. Deploy and manage AD CS
 
-## Deploy and manage certificates
+## 9. Deploy and manage certificates
 
-## Implement and administer AD FS
+## 10. Implement and administer AD FS
 
-## Implement AD DS synchronization with Microsoft Entra ID
+## 11. Implement AD DS synchronization with Microsoft Entra ID
 
-## Monitor, manage and recover AD DS
+## 12. Monitor, manage and recover AD DS
 
 
 # ******* Windows and Hyper-V Networking *******
 
-## Implement IPv4
+## 1. Implement IPv4
 
-## Implement DHCP
+## 2. Implement DHCP
 
-## Plan and implement IPv6
+## 3. Plan and implement IPv6
 
-## Implement name resolution with DNS
+## 4. Implement name resolution with DNS
 
-## Implement and manage IP Address Management (IPAM)
+## 5. Implement and manage IP Address Management (IPAM)
 
-## Implement remote access
+## 6. Implement remote access
 
-## Implement branch office networking
+## 7. Implement branch office networking
 
-## Implement advanced networking
+## 8. Implement advanced networking
 
 
 # ******* Projects ************
