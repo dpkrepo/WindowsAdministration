@@ -6,27 +6,27 @@
 ## Deploy Active Directory Services
 -
 ## Manage Directory Objects
-
+-
 ## Advanced Active Directory Domain Services Infrastructure Management
-
+-
 ## Implement and Administer AD DS Sites and replication
-
+-
 ## Implement Group Policy
-
+-
 ## Manage user settings with Group Policy
-
+-
 ## Secure Active Directory Domain Services
-
+-
 ## Deploy and manage AD CS
-
+-
 ## Deploy and manage certificates
-
+-
 ## Implement and administer AD FS
-
+-
 ## Implement AD DS synchronization with Microsoft Entra ID
-
+-
 ## Monitor, manage and recover AD DS
-
+-
 
 ## Projects
 
