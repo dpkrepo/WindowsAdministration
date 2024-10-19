@@ -97,7 +97,7 @@
 ### Example templates
 - Domain:
 - OU:
-- Objects:
+- Objects (computers ,users, groups, printers):
 ### general Questions to ask if the user didn't provide enough Information
 - Which computers or users account having issue?
 - What features and services having Issues?
