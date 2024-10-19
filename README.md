@@ -94,6 +94,16 @@
 
 # ******** Documentation for troubleshooting ******** 
 
+### Example templates
+- Domain:
+- OU:
+- Objects:
+### general Questions to ask if the user didn't provide enough Information
+- Which computers or users account having issue?
+- What features and services having Issues?
+- Is features or services enabled in systems?
+- Is there recent updates, configuration changes heppened?
+
 
 | Issue | Descriptions | Root Cause | Solution |
 | ----- | ------------- | -----------| -------- |
