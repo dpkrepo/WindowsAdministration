@@ -1,9 +1,18 @@
-# Administering Windows Server Hybrid Core Infrastructure
+# Title : Administering Windows Server Hybrid Core Infrastructure
+# Purpose : Step-by- Step instructions to educate the IT Beginners who wants to Administering Windows Servers, it's roles and features.
+# Tools & Software Needed :
+-
+-
+
+# Prerequisites & Dependencies : 
+-
+-
+# Step-by-Step Instructions :
 
 
 [Study guide for Exam AZ-800: Microsoft Azure Administrator](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-800)
 
-# ******* Windows Server Installation, Storage and Compute *******
+## ******* Windows Server Installation, Storage and Compute *******
 
 ## 1. Install upgrade and migrate servers and workloads
 
