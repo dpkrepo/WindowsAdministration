@@ -92,6 +92,19 @@
 
 ## 8. Implement advanced networking
 
+# ******** Documentation for troubleshooting ******** 
+
+
+| Issue | Descriptions | Root Cause | Solution |
+| ----- | ------------- | -----------| -------- |
+| 1. User can't login | User attemps to login with wrong passwords to many times  | Account deactivated | Need password reset |
+
+
+- TroubleShooting Methods: 
+  - Steps:
+- Verification Methods:
+  - Checked the users now can login or not after fixing the issue
+
 
 # ******* Projects ************
 
