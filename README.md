@@ -112,6 +112,7 @@
 
 - TroubleShooting Methods: 
   - Steps:
+    - Server Manager ---> Tools ---> AD Users and computers --> Find User account ---> Right click menu ---> Reset password
 - Verification Methods:
   - Checked the users now can login or not after fixing the issue
 
