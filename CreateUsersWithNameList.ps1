@@ -14,13 +14,13 @@ foreach ($n in $UserNameList) {
     $username = "$($first.Substring(0,1))$($last)".ToLower()
     Write-Host "Creating user: $($username)" -BackgroundColor Black -ForegroundColor Cyan
     
-    New-AdUser -AccountPassword $password `
-               -GivenName $first `
-               -Surname $last `
-               -DisplayName $username `
-               -Name $username `
-               -EmployeeID $username `
-               -PasswordNeverExpires $true `
-               -Path "ou=_USERS,$(([ADSI]`"").distinguishedName)" `
+    New-AdUser -AccountPassword $password
+               -GivenName $first
+               -Surname $last
+               -DisplayName $username
+               -Name $username
+               -EmployeeID $username
+               -PasswordNeverExpires $true
+               -Path "ou=_USERS,$(([ADSI] "").distinguishedName)"
                -Enabled $true
 }
