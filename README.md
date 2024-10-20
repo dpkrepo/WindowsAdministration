@@ -5,7 +5,7 @@
 - For whom this documentation intended?
     #### Windows Server Administration begineers
 - For What pupose this documentation created?
-    #### To Create a Step-by-Step instructions for educatiing Windows Server Administrator begineers, who wants to Administering Windows Servers, it's roles and features.
+    #### To Create a Step-by-Step instructions for educating Windows Server Administrator begineers, who wants to Administering Windows Servers, it's roles and features.
 
 # Tools & Software Needed :
 - Systems and processes:
