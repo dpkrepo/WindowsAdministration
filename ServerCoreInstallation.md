@@ -78,7 +78,7 @@ As a part of the deployment plan, you'll implement Server Core and then configur
     - The server is renamed and then restarts.
 
 5. **Join Domain**:
-    - On LON-SVR6, press `Ctrl+Alt+Del`, enter the password `Pa55w.rd`, and press `Enter`.
+    - On <YourComputer>, press `Ctrl+Alt+Del`, enter the password `Ca55rew@rd`, and press `Enter`.
     - After a few moments, `sconfig` starts automatically and presents the Server Configuration tool.
     - To exit to Command Line (PowerShell), enter `15` and press `Enter`.
     - At the PowerShell prompt, enter the following command and press `Enter`:
