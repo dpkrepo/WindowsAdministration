@@ -52,7 +52,7 @@ As a part of the deployment plan, you'll implement Server Core and then configur
 ### Task 2: Configure Server Core with sconfig and PowerShell
 
 1. **Verify Server Configuration Tool**:
-    - On LON-SVR6, ensure that the Server Configuration tool is active.
+    - On SERVER-CORE-6, ensure that the Server Configuration tool is active.
     - If the tool isn't active, enter `sconfig` at the command prompt and press `Enter`.
 
 2. **Network Settings**:
@@ -77,12 +77,12 @@ As a part of the deployment plan, you'll implement Server Core and then configur
     - To exit to Command Line (PowerShell), enter `15` and press `Enter`.
     - At the PowerShell prompt, enter the following command and press `Enter`:
         ```powershell
-        Rename-Computer -NewName <YourComputer> -restart -force
+        Rename-Computer -NewName SERVER-CORE-6 -restart -force
         ```
     - The server is renamed and then restarts.
 
 5. **Join Domain**:
-    - On <YourComputer>, press `Ctrl+Alt+Del`, enter the password `Ca55rew@rd`, and press `Enter`.
+    - On SERVER-CORE-6, press `Ctrl+Alt+Del`, enter the password `Ca55rew@rd`, and press `Enter`.
     - After a few moments, `sconfig` starts automatically and presents the Server Configuration tool.
     - To exit to Command Line (PowerShell), enter `15` and press `Enter`.
     - At the PowerShell prompt, enter the following command and press `Enter`:
@@ -90,7 +90,7 @@ As a part of the deployment plan, you'll implement Server Core and then configur
         Add-Computer -DomainName jpaitai.com -Credential jpaitai\Administrator -restart -force
         ```
     - In the Windows PowerShell credential request window, enter `Ca55rew@rd` and select `OK`.
-    - <YourComputer> is joined to the jpaitai.com domain and then restarts.
+    - SERVER-CORE-6 is joined to the jpaitai.com domain and then restarts.
 
 ### Results
 
