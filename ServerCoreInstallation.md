@@ -15,9 +15,14 @@ As a part of the deployment plan, you'll implement Server Core and then configur
 - Fresh Install in bare metal using USB
 
 1. **Install Now**:
+    - Insert the Media
+    - Restart the Computer
+    - Enter into Bios to make your USB Media Booting priority
+    - Save and Exit from Bios (your Computer will restart)
+    - Press any key to boot from USB
     - Select `Install now`.
 
-2. **Select the Operating System**:
+3. **Select the Operating System**:
     - On the "Select the operating system you want to install" page, ensure that `Windows Server 2022 Datacenter Evaluation` is selected.
     - Select `Next`.
 
