@@ -20,7 +20,8 @@ This guide provides step-by-step instructions for administering a Windows system
 ## Installation
 1. **Download Windows**: Obtain the Windows installation media from the official Microsoft website.
 3. **Create Installation Media**: Use the Media Creation Tool to create a bootable USB drive.
-4. **Install Windows**: Boot from the USB drive and follow the on-screen instructions to install Windows.
+  - [Checkout How to Create Installation Media](https://github.com/dpkrepo/WindowsAdministration/blob/main/CreateInstallationMedia)
+5. **Install Windows**: Boot from the USB drive and follow the on-screen instructions to install Windows.
  - [Windows Server Core Installation](https://github.com/dpkrepo/WindowsAdministration/blob/main/ServerCoreInstallation.md)
 
 ## User Management
