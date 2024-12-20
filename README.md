@@ -19,10 +19,11 @@ This guide provides step-by-step instructions for administering a Windows system
 
 ## Installation
 1. **Download Windows**: Obtain the Windows installation media from the official Microsoft website.
+  - [Download Windows Server 2019 From Official Microsoft Site](https://go.microsoft.com/fwlink/p/?linkid=2195685&clcid=0x409&culture=en-us&country=us)
 3. **Create Installation Media**: Use the Media Creation Tool to create a bootable USB drive.
   - [Checkout How to Create Installation Media](https://learn.microsoft.com/en-us/windows-server-essentials/install/create-a-bootable-usb-flash-drive?form=MG0AV3)
 5. **Install Windows**: Boot from the USB drive and follow the on-screen instructions to install Windows.
- - [Windows Server Core Installation](https://github.com/dpkrepo/WindowsAdministration/blob/main/ServerCoreInstallation.md)
+  - [Windows Server Core Installation](https://github.com/dpkrepo/WindowsAdministration/blob/main/ServerCoreInstallation.md)
 
 ## User Management
 1. **Create a New User**:
