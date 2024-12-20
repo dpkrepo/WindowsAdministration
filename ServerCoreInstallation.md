@@ -43,7 +43,7 @@ As a part of the deployment plan, you'll implement Server Core and then configur
 
 9. **Set Administrator Password**:
     - You might need to press `Ctrl-Alt-Del` to unlock the screen.
-    - Enter the new password `Pa55w.rd` in the `New password` and `Confirm password` text boxes.
+    - Enter the new password `Ca55rew@rd` in the `New password` and `Confirm password` text boxes.
     - Press `Enter` twice to acknowledge the password change.
 
 10. **Server Configuration Tool (sconfig)**:
