@@ -56,16 +56,16 @@ As a part of the deployment plan, you'll implement Server Core and then configur
     - To change adapter index #1, enter `1` and press `Enter`.
     - To set the network adapter address, enter `1` and press `Enter`.
     - To set a static IP address, enter `S` and press `Enter`.
-    - Enter the IP address `172.16.0.26` and press `Enter`.
+    - Enter the IP address `192.168.0.16` and press `Enter`.
     - Enter the subnet mask `255.255.0.0` and press `Enter`.
-    - Enter the default gateway `172.16.0.1` and press `Enter`.
+    - Enter the default gateway `192.168.0.1` and press `Enter`.
     - Press `Enter` again to continue and return to the main management screen.
 
 3. **DNS Settings**:
     - To access Network settings, enter `8` and press `Enter`.
     - To change adapter index #1, enter `1` and press `Enter`.
     - To set the Domain Name System (DNS) server, enter `2` and press `Enter`.
-    - Enter `172.16.0.10` and press `Enter`.
+    - Enter `192.168.0.10` and press `Enter`.
     - Leave the alternate DNS server blank and press `Enter`.
     - Press `Enter` again to continue.
 
@@ -73,7 +73,7 @@ As a part of the deployment plan, you'll implement Server Core and then configur
     - To exit to Command Line (PowerShell), enter `15` and press `Enter`.
     - At the PowerShell prompt, enter the following command and press `Enter`:
         ```powershell
-        Rename-Computer -NewName LON-SVR6 -restart -force
+        Rename-Computer -NewName <YourComputer> -restart -force
         ```
     - The server is renamed and then restarts.
 
@@ -83,10 +83,10 @@ As a part of the deployment plan, you'll implement Server Core and then configur
     - To exit to Command Line (PowerShell), enter `15` and press `Enter`.
     - At the PowerShell prompt, enter the following command and press `Enter`:
         ```powershell
-        Add-Computer -DomainName Contoso.com -Credential Contoso\Administrator -restart -force
+        Add-Computer -DomainName jpaitai.com -Credential jpaitai\Administrator -restart -force
         ```
-    - In the Windows PowerShell credential request window, enter `Pa55w.rd` and select `OK`.
-    - LON-SVR6 is joined to the Contoso.com domain and then restarts.
+    - In the Windows PowerShell credential request window, enter `Ca55rew@rd` and select `OK`.
+    - <YourComputer> is joined to the jpaitai.com domain and then restarts.
 
 ### Results
 
