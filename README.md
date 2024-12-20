@@ -15,8 +15,7 @@
 This guide provides step-by-step instructions for administering a Windows system.
 
 ## System Requirements
-- Windows 10 or later
-- Administrative privileges
+[Checkout Official Hardware requirements for Windows Server ](https://learn.microsoft.com/en-us/windows-server/get-started/hardware-requirements?tabs=cpu&pivots=windows-server-2022)
 
 ## Installation
 1. **Download Windows**: Obtain the Windows installation media from the official Microsoft website.
