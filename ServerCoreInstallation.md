@@ -12,8 +12,7 @@ As a part of the deployment plan, you'll implement Server Core and then configur
 2. Configure Server Core with `sconfig` and Windows PowerShell.
 
 ### Task 1: Install Server Core
-- Fresh Install (Bare metal)
-- Install in Hyper-V
+- Fresh Install in bare metal using USB
 
 1. **Install Now**:
     - Select `Install now`.
