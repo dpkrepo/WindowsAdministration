@@ -5,6 +5,8 @@
 ### Scenario
 
 As a part of the deployment plan, you'll implement Server Core and then configure it for remote management.
+- SERVERNAME: SERVER-CORE-6
+- IPV4 SCOPE: 192.168.0.0/24
 
 ### Main Tasks
 
